@@ -32,6 +32,6 @@ variable "sns-name" {
 }
 
 variable "mail-id" {
-  default = "ayushmansen250@gmail.com"
+  default = "psharma08012020@gmail.com"
   type    = string
 }
